@@ -1,0 +1,11 @@
+{
+  "name": "selenium-firebase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jimliu7434/selenium-firebase.git",
+  "author": "jimliu7434 <jimliu7434@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
